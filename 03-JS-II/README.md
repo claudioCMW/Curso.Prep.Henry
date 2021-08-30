@@ -23,7 +23,7 @@ En esta lección cubriremos:
 * Bucles `for`
 * `arguments`
 
-<iframe src="https://player.vimeo.com/video/424318886" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/594725400?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=aaa666f1da" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="02 - JS II - Flujos de control.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Undefined y null
 
@@ -266,7 +266,28 @@ Si queremos saber cuantos parámetros puede recibir una función podemos usar la
 < 0 // porque en la función `args` definimos 0 parámetros
 ```
 
-## Abre la carpeta "homework" y completa la tarea descrita en el archivo README
+## La mejor herramienta del programador
+Día a día nos encontramos con diversos problemas y, como sabemos, cada problema puede tener distintas soluciones. Una buena forma para adquirir las herramientas que nos permitan resolverlos y aprender su correcto uso es leer documentación oficial o "respaldada". Para ello, nuestro mejor amigo es Google!
+<br>
+En el homework de este módulo nos vamos a encontrar con dos temas que no están explicados en este readme: switch y do while .
+Te invitamos a buscar en Google información de estos conceptos para poder desarrollar la homework. A continuación, algunos tips de búsqueda.
+
+* Recomendado buscar en inglés: ¡Aparecen mejores y mayor cantidad de resultados! Ej: "switch statement javascript".
+* Recordemos aclarar el lenguaje en el que estamos buscando el tema, como en el ejemplo de arriba donde aclaramos javascript, ya que un mismo tema puede existir en distintos lenguajes de programación y funcionar de manera distinta en cada uno de ellos.
+* Uno de los primeros resultados que vas a encontrar será MDN (Mozilla Developer Network): es una web muy completa que incluye tanto documentación como ejemplos.
+
+<br>
+<br>
+<details>
+    <summary>Spoiler, resultado de búsqueda en Google!</summary>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/switch">MDN : Switch</a>
+    <br>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/do...while">MDN : Do While</a>
+</details>
+<br>
+<br>
+
+## Abre la carpeta "homework" y completa la tarea descripta en el archivo README
 [Homework](https://github.com/atralice/Curso.Prep.Henry/tree/master/03-JS-II/homework)
 
 ## Recursos adicionales

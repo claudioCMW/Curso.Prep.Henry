@@ -20,19 +20,25 @@
 
 * [Expressions vs Statements](./JS-conceptos/Statements-Expressions/)
 
-## Proceso de subida de homeworks
+## Homeworks
 
-__IMPORTANTE:__ Luego de completar cada una de las homeworks del día deberán ejecutar el siguiente comando para subir sus trabajos a sus repositorios (Deben estar posicionados sobre la carpeta principal `Curso.Prep.Henry` para que funcione y haber corrido previamente `npm install`:
+__IMPORTANTE:__ Para ejecutar los tests de cada homework tenes que pararte en la carpeta donde clonaste tu repo (es decir la carpeta donde está este `README.md`) y ejecutar el siguiente comando:
 
-Para la homework número 1 no es necesario ya que su trabajo se realiza por fuera de este repositorio
+`npm install`
 
-```bash
-  node submit.js {numeroHomework}
+Esto instalará todas las dependencias necesarias (lo tenés que hacer una sóla vez), una vez terminado y cada vez que quieras ver cuantos tests pasaste ejecutá:
+
+```
+npm test {nombre del homework}.test.js
 ```
 
-*En donde dice {numeroHomework} deben reemplazarlo simplemente por el número de homework correspondiente, por ejemplo `node submit.js 2`*
+Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test JSII.test.js`
+el del homework 01: `npm test JSI.test.js`
+y así.
+
+> No todos los homeworks tiene tests, está detallado en la descripción de cada uno.
 
 # La Carrera
 
 Si querés saber más sobre la carrera, mirá este video:
-<iframe src="https://player.vimeo.com/video/426051769" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/594727242" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
